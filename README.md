@@ -8,3 +8,4 @@
 - sending a `#` followed by a key word will trigger the bot to web scrape a stock image of that keyword, process the image, and caption it with a random pinned message from the server.
 - You can also command it with `!inspire` to send out an inspirational photo from a set of user uploaded insirational photos
 ## Gallery
+![image](https://user-images.githubusercontent.com/73128220/142978183-101f1ff2-c48e-4e3c-a113-cff930795f4a.png)
